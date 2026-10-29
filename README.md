@@ -2,6 +2,9 @@
 
 ### ♿ Navigate the web with your eyes. Interact hands-free.
 
+## 🚀 Live Demo
+🌐 **Try EyeNav:** [Open Live Website](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)
+
 **EyeNav** is a webcam-based accessibility project that explores hands-free web navigation using eye tracking, facial gestures, and voice commands. Built with React, MediaPipe, and modern web technologies, it aims to make digital interaction more accessible for people who find traditional mouse or keyboard input difficult.
 
 <p align="center">
