@@ -6,7 +6,7 @@
 
 ![EyeNav Calibration](calibration.png)
 
-![EyeNav Demo](demo.png)
+![EyeNav Demo](live demo.png)
 
 ## 🚀 Live Demo
 🌐 **Try EyeNav:** [Open Live Website](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)
