@@ -1,12 +1,17 @@
 # 👁️ EyeNav — Eye-Controlled Computer Access
 
 ### ♿ Navigate the web with your eyes. Interact hands-free.
-## 📸 Project Screenshots
-![EyeNav Dashboard](dashboard.png)
 
+## 📸 Project Screenshots
+
+### 🏠 Dashboard
+![EyeNav Dashboard](Dashboard.png)
+
+### 🎯 Eye Tracking Calibration
 ![EyeNav Calibration](calibration.png)
 
-![EyeNav Demo](live demo.png)
+### 🖥️ Live Demo
+![EyeNav Live Demo](Live%20demo.png)
 
 ## 🚀 Live Demo
 🌐 **Try EyeNav:** [Open Live Website](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)
